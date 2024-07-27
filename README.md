@@ -34,26 +34,8 @@ I'm a motivated and detail-oriented Flutter Developer with a solid foundation in
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-1E8449?style=for-the-badge&logo=problem-solving&logoColor=white)
 
 ## 💼 Projects
-
-### IcareU App
-A comprehensive mobile application for monitoring elderly individuals' activities and detecting falls.
-- **Description**: Developed a mobile application aimed at monitoring the activities of elderly individuals, focusing on detecting falls. Utilized mobile sensors (gyroscope, accelerometer) to read and analyze movement data, sending it to a machine learning model to identify activities.
-- **Technologies**: Flutter, Firebase, Gyroscope, Accelerometer
-- **Features**:
-  - Fall detection with notifications to mentors and alarms if no response within 5 seconds.
-  - APIs for data storage, user authentication, and adding medicine reminders.
-  - Real-time chat between elderly users and mentors using Socket.
-  - Location tracking and medicine reminders.
-- **GitHub**: [IcareU Repository](https://github.com/MohammedAshraf19/IcareU)
-
-### Movie App
-A mobile application for browsing and discovering movies.
-- **Description**: Developed a mobile application using Flutter for browsing and discovering movies. Integrated real-time data from a movie API for dynamic content updates.
-- **Technologies**: Flutter, Firebase
-- **Features**:
-  - Search functionality, movie details, similar movies, movie rating, and trailers.
-  - User authentication and data storage using Firebase.
-- **GitHub**: [Movie App Repository](https://github.com/MohammedAshraf19/MovieApp)
+- **IcareU App**: A mobile application for monitoring elderly individuals' activities and detecting falls. Utilized mobile sensors, machine learning for activity detection, and integrated features like medicine reminders, location tracking, and real-time chat using sockets. [GitHub](https://github.com/MohammedAshraf19/IcareU)
+- **Movie App**: A mobile application for browsing and discovering movies. Integrated real-time data from a movie API for dynamic content updates and implemented features like search, movie details, and user authentication with Firebase. [GitHub](https://github.com/MohammedAshraf19/MovieApp)
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/mohammed-ashraf19)
