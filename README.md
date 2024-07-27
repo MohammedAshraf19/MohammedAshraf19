@@ -35,18 +35,8 @@ I'm a motivated and detail-oriented Flutter Developer with a solid foundation in
 ![MVVM](https://img.shields.io/badge/MVVM-232F3E?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Shared Preferences](https://img.shields.io/badge/Shared%20Preferences-47A248?style=for-the-badge&logo=android&logoColor=white)
 ![Mobile Development](https://img.shields.io/badge/Mobile%20Development-47A248?style=for-the-badge&logo=mobile&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-### Soft Skills
-- Communication Skills
-- Self-Study
-- Helpful
-- Team Work
-- Collaboration Skills
-
-## 💼 Projects
-- **IcareU App**: A mobile application for monitoring elderly individuals' activities and detecting falls. Utilized mobile sensors, machine learning for activity detection, and integrated features like medicine reminders, location tracking, and real-time chat using sockets. [GitHub](https://github.com/MohammedAshraf19/IcareU)
-- **Movie App**: A mobile application for browsing and discovering movies. Integrated real-time data from a movie API for dynamic content updates and implemented features like search, movie details, and user authentication with Firebase. [GitHub](https://github.com/MohammedAshraf19/MovieApp)
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/mohammed-ashraf19)
